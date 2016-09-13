@@ -22,3 +22,9 @@
 	
 	echo "õnne!";
 ?>
+
+<br>
+
+<?php
+	echo date("l, j.m.Y, H:i:s")
+?>
